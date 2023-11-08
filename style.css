@@ -13,7 +13,7 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(0, 79%, 40%);
+    background-color: hsl(192, 79%, 40%);
     }
     h1 { 
       background-color: #087d3d;
@@ -21,7 +21,7 @@
     }
   
   .calculator {
-  border: 2px solid hsl(25, 88%, 45%);
+  border: 2px solid hsl(175, 88%, 45%);
   width: 800px; /* Largura aumentada para 800 pixels */
   height: 600px; /* Altura aumentada para 600 pixels */
   margin: 0 auto; /* Centraliza a calculadora horizontalmente na página */
@@ -43,8 +43,8 @@
   text-align: right;
   padding: 0px;
   margin-bottom: 10px;
-  background-color: hwb(264 22% 18%);
-  border: 1px solid hsl(230, 93%, 17%);
+  background-color: hwb(0 95% 5%);
+  border: 1px solid hsl(0, 0%, 97%);
   border-radius: 5px;
   }
   
@@ -67,5 +67,5 @@
   }
 
   button:hover {
-    background-color: #45a049;
+    background-color: #4078f0;
  }
